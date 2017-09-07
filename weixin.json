@@ -1,0 +1,69 @@
+{
+	"button":[
+     {
+     	"name":"春风",
+     	"sub_button":[
+         {
+         	"type":"click",
+         	"name":"喝最烈的酒",
+         	"key":"dsk"
+         },
+         {
+         	"type":"view",
+         	"name":"西安航空学院",
+         	"url":"http://www.xaau.edu.cn"
+         },
+         {
+         	"type":"view",
+         	"name":"秋水共长天一色",
+         	"url":"http://www.xaau.edu.cn"
+         }
+
+     	]
+     },
+     {
+        	"name":"十里",
+     	"sub_button":[
+         {
+         	"type":"click",
+         	"name":"喝最烈的酒",
+         	"key":"css"
+         },
+         {
+         	"type":"view",
+         	"name":"西安航空学院",
+         	"url":"http://www.xaau.edu.cn"
+         },
+         {
+         	"type":"view",
+         	"name":"秋水共长天一色",
+         	"url":"http://www.xaau.edu.cn"
+         }
+
+     	]
+     },
+     {
+       	"name":"不如你",
+     	"sub_button":[
+         {
+         	"type":"click",
+         	"name":"喝最烈的酒",
+         	"key":" "
+         },
+         {
+         	"type":"view",
+         	"name":"西安航空学院",
+         	"url":"http://www.xaau.edu.cn"
+         },
+         {
+         	"type":"view",
+         	"name":"秋水共长天一色",
+         	"url":"http://www.xaau.edu.cn"
+         }
+
+     	]
+
+     }
+
+	]
+}
