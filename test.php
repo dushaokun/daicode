@@ -5,4 +5,4 @@
  * Date: 2019/1/10
  * Time: 22:16
  */
-echo 'git 很好用';
+echo 'git 很好用';print_r('123456789');
